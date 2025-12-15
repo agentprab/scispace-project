@@ -1,0 +1,17 @@
+# Research Gap Finding Agent - Dependencies
+
+# FastAPI and server
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-dotenv>=1.0.0
+
+# HTTP client for API calls
+httpx>=0.25.0
+
+# LLM and LangGraph
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langgraph>=0.0.20
+
+# Data handling
+pydantic>=2.5.0
